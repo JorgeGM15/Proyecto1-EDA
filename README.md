@@ -26,18 +26,18 @@ Para compilar y correr este proyecto, necesitarás un compilador de C como **GCC
 3.  **Compila el código** con el siguiente comando:
 
     ```bash
-    gcc ajedrez.c 
+    gcc Proyecto1-EDA.c 
     ```
 
 4.  **Ejecuta el programa**:
 
       * En Windows:
         ```bash
-        ajedrez.exe
+        Proyecto1-EDA.exe
         ```
       * En Linux o macOS:
         ```bash
-        ./ajedrez
+        ./Proyecto1-EDA
         ```
 
 -----
