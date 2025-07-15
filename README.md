@@ -26,10 +26,8 @@ Para compilar y correr este proyecto, necesitarás un compilador de C como **GCC
 3.  **Compila el código** con el siguiente comando:
 
     ```bash
-    gcc nombre_del_archivo.c -o ajedrez
+    gcc ajedrez.c 
     ```
-
-    *(Reemplaza `nombre_del_archivo.c` con el nombre de tu archivo C)*.
 
 4.  **Ejecuta el programa**:
 
